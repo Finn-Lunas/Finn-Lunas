@@ -1,4 +1,4 @@
-![Header](https://github.com/Finn-Lunas/Finn-Lunas/blob/main/assets/baner.png)
+![Header](https://github.com/Finn-Lunas/Finn-Lunas/blob/main/assets/newBaner.jpg)
 
 Adout me
 
