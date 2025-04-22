@@ -18,9 +18,9 @@
 
 <p align="left">
   <a href="https://t.me/lunasfrance" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-010409?style=for-the-badge&logo=telegram&logoColor=2CA5E0" height="45"/>&nbsp;
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Telegram-010409?style=for-the-badge&logo=telegram&logoColor=2CA5E0" height="45"/>
+  </a>
   <a href="https://www.instagram.com/stysys_zhudys/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-010409?style=for-the-badge&logo=instagram&logoColor=E4405F" height="45"/>&nbsp;
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Instagram-010409?style=for-the-badge&logo=instagram&logoColor=E4405F" height="45"/>
+  </a>
 </p>
