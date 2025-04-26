@@ -24,3 +24,5 @@
     <img src="https://img.shields.io/badge/Instagram-010409?style=for-the-badge&logo=instagram&logoColor=E4405F" height="35"/>
   </a>
 </p>
+
+[![Codewars](https://www.codewars.com/users/Finn-Lunas/badges/large)](https://www.codewars.com/users/Finn-Lunas)
